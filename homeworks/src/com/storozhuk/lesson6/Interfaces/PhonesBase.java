@@ -1,4 +1,4 @@
-package com.storozhuk.lesson6;
+package com.storozhuk.lesson6.Interfaces;
 
 /**
  * Class PhoneBase
@@ -39,7 +39,7 @@ public class PhonesBase implements Selector {
         System.out.println("\nSubscribers with city-calls time greater than " + tm + " seconds:");
         for(Phone ph : this.phonesList) {
             if(ph.getCityCallsTime() > tm) {
-                System.out.println(ph.toString());
+                System.out.println(ph);
             }
         }
     }
@@ -50,7 +50,7 @@ public class PhonesBase implements Selector {
         System.out.println("\nSubscribers who used long distance calls:");
         for(Phone ph : this.phonesList) {
             if(ph.getLongDistanceCallsTime() > 0) {
-                System.out.println(ph.toString());
+                System.out.println(ph);
             }
         }
     }

@@ -1,12 +1,13 @@
-package com.storozhuk.lesson6;
+package com.storozhuk.lesson6.Interfaces;
 
-/*
- * Создать интерфейс и его реализацию для выборки данных и вывести эти данные на консоль.
+/**
+ * Create interface and its realization for data selection.
+ * Print data into console.
  *
- * a) сведения об абонентах, у которых время внутригородских разговоров превышает заданное;
- * b) сведения об абонентах, которые пользовались междугородной связью;
- * c) сведения об абонентах в алфавитном порядке.
- * д) сведения об первых 10 абонентов у который самый большой трафик интернета
+ * a) subscribers who city call time exceeds the specified one;
+ * b) subscribers who used intercity communication;
+ * c) subscribers in alphabet order;
+ * d) first 10 subscribers with maximum internet traffic usage.
  */
 public class Main {
     public static void main(String[] args) {

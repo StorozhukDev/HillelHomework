@@ -1,4 +1,4 @@
-package com.storozhuk.lesson6;
+package com.storozhuk.lesson6.Interfaces;
 
 /**
  * Class Phone
