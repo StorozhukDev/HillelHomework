@@ -1,12 +1,11 @@
-package com.storozhuk.lesson2;
-
-/*
- * Deposit calculation with monthly capitalization
- */
+package com.storozhuk.lesson2.Task3;
 
 import java.util.Scanner;
 
-public class Task3 {
+/**
+ * Deposit calculation with monthly capitalization
+ */
+public class DepositCalculator {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         double percentsPerYear, percentsPerMonth;

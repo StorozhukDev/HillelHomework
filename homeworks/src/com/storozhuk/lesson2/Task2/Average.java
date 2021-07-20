@@ -1,10 +1,9 @@
-package com.storozhuk.lesson2;
+package com.storozhuk.lesson2.Task2;
 
-/*
- * Counting the average of any numbers
+/**
+ * Average of any numbers
  */
-
-public class Task2 {
+public class Average {
     public static void main(String[] args) {
         if(args.length < 2) {
             System.out.println("Too few arguments.");
