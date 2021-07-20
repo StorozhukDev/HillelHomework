@@ -1,5 +1,9 @@
 package com.storozhuk.lesson4;
 
+/**
+ * Car travel from Odessa to Kyiv with refilling in Kryve Ozero and Jashkiv.
+ * Calculates remained fuel and travel costs.
+ */
 public class Main {
     public static void main(String[] args) {
         final double ODESSA_KRYVEOZERO_DIST = 178.0d;

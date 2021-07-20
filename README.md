@@ -1,5 +1,3 @@
 # HillelHomework
-
-Java Elementary Course (18-03-2021)
-
-To watch homework just select needed branch.
+## Java Elementary Course (18-03-2021)
+#### [Lesson 4: Car travel.](homeworks/src/com/storozhuk/lesson4)
