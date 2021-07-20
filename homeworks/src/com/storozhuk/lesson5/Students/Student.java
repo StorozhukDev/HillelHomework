@@ -1,4 +1,4 @@
-package com.storozhuk.lesson5;
+package com.storozhuk.lesson5.Students;
 
 /**
  * Class Student

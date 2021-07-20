@@ -1,4 +1,4 @@
-package com.storozhuk.lesson5;
+package com.storozhuk.lesson5.Students;
 
 /**
  * Class University
@@ -55,7 +55,7 @@ public class University {
     public void printStudentsFromFaculty(String facultyName) {
         for(Student s : this.studentsList) {
             if(s.getFaculty().equals(facultyName)) {
-                System.out.println(s.toString());
+                System.out.println(s);
             }
         }
     }
@@ -64,7 +64,7 @@ public class University {
     public void printStudentsFromFacultyCourse(String facultyName, Integer course) {
         for(Student s : this.studentsList) {
             if(s.getFaculty().equals(facultyName) && s.getCourse().equals(course)) {
-                System.out.println(s.toString());
+                System.out.println(s);
             }
         }
     }
@@ -73,7 +73,7 @@ public class University {
     public void printStudentsIfYounger(Integer yearOfBirth) {
         for(Student s : this.studentsList) {
             if(s.getYearOfBirth() > yearOfBirth) {
-                System.out.println(s.toString());
+                System.out.println(s);
             }
         }
     }
@@ -82,7 +82,7 @@ public class University {
     public void printStudentsFromGroup(String groupName) {
         for(Student s : this.studentsList) {
             if(s.getGroup().equals(groupName)) {
-                System.out.println(s.toString());
+                System.out.println(s);
             }
         }
     }

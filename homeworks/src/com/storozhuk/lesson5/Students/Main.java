@@ -1,13 +1,12 @@
-package com.storozhuk.lesson5;
+package com.storozhuk.lesson5.Students;
 
-/*
- * Вывести:
- * a) список студентов заданного факультета; - Факульет
- * b) списки студентов для каждого факультета и курса; - Факультет, Группа
- * c) список студентов, родившихся после заданного года; - Год рождения
- * d) список учебной группы. - Группа
+/**
+ * Print:
+ * a) list of students from faculty; - Faculty
+ * b) list of students from faculty and course; - Faculty, Group
+ * c) list of students born after year; - Year
+ * d) list of study group. - Group
  */
-
 public class Main {
     public static void main(String[] args) {
         University polytech = new University("ОНПУ");
