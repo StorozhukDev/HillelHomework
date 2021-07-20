@@ -1,4 +1,4 @@
-package com.storozhuk.lesson4;
+package com.storozhuk.lesson4.CarTravel;
 
 /**
  * Car travel from Odessa to Kyiv with refilling in Kryve Ozero and Jashkiv.

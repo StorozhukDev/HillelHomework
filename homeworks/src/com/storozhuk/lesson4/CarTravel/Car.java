@@ -1,4 +1,4 @@
-package com.storozhuk.lesson4;
+package com.storozhuk.lesson4.CarTravel;
 
 /**
  * Class Car
