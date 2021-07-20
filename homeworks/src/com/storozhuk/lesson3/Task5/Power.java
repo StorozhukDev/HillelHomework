@@ -1,14 +1,13 @@
-package com.storozhuk.lesson3;
+package com.storozhuk.lesson3.Task5;
 
-/*
+import java.util.Scanner;
+
+/**
  * Tasks 5
  *
  * Calculating n-th power of x ( x^n )
  * where n >= 0
  */
-
-import java.util.Scanner;
-
 public class Power {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

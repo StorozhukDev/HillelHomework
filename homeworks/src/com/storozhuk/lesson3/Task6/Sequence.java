@@ -1,11 +1,10 @@
-package com.storozhuk.lesson3;
+package com.storozhuk.lesson3.Task6;
 
-/*
+/**
  * Tasks 6
  *
  * Printing first 10 values of sequence 0, -5, -10..
  */
-
 public class Sequence {
     public static void main(String[] args) {
         int n = 0;

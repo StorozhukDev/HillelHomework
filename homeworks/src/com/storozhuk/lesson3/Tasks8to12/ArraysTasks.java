@@ -1,6 +1,9 @@
-package com.storozhuk.lesson3;
+package com.storozhuk.lesson3.Tasks8to12;
 
-/*
+import java.util.Arrays;
+import java.util.Scanner;
+
+/**
  * Tasks 8-12
  *
  * 8. Create array with first 10 odd numbers and print in one string
@@ -11,10 +14,6 @@ package com.storozhuk.lesson3;
  * 12. Print average of values of array N.
  *
  */
-
-import java.util.Arrays;
-import java.util.Scanner;
-
 public class ArraysTasks {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

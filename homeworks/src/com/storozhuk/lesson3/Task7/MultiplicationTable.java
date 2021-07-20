@@ -1,13 +1,12 @@
-package com.storozhuk.lesson3;
+package com.storozhuk.lesson3.Task7;
 
-/*
+import java.util.Scanner;
+
+/**
  * Tasks 7
  *
  * Printing multiplication table of X
  */
-
-import java.util.Scanner;
-
 public class MultiplicationTable {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

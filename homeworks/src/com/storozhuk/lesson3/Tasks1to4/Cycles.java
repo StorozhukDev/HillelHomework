@@ -1,14 +1,13 @@
-package com.storozhuk.lesson3;
+package com.storozhuk.lesson3.Tasks1to4;
 
-/*
+import java.util.Scanner;
+
+/**
  * Tasks 1-4
  *
  * Printing odd values from 1 to 99
  * and calculating factorial of input value using for/while/do...while cycles
  */
-
-import java.util.Scanner;
-
 public class Cycles {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
