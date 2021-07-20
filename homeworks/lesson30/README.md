@@ -4,4 +4,4 @@
 
 1. [Cache implementation.](./src/main)
 2. [Unit tests.](./src/test)
-3. [JavaDoc.](./doc/index.html)
+3. [JavaDoc.](./doc)
