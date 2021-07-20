@@ -3,4 +3,4 @@
 ### Lesson 4
 
 1. [Car travel.](./CarTravel)
-2. [Results.](./Results/HW4.PNG)
+2. [Output.](Output/HW4-output.PNG)
