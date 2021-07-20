@@ -1,5 +1,3 @@
 # HillelHomework
-
-Java Elementary Course (18-03-2021)
-
-To watch homework just select needed branch.
+## Java Elementary Course (18-03-2021)
+#### [Lesson 7: String collection implementation.](homeworks/src/com/storozhuk/lesson7)

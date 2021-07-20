@@ -1,4 +1,4 @@
-package lesson7.utils;
+package com.storozhuk.lesson7.StringCollection.utils;
 
 import java.util.Arrays;
 
