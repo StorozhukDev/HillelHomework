@@ -1,4 +1,4 @@
-package com.storozhuk.lesson9.service;
+package com.storozhuk.lesson9.LinkedList.service;
 
 public interface Collection {
     boolean add(String str);

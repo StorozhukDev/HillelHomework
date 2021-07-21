@@ -1,7 +1,7 @@
-package com.storozhuk.lesson9.service.impl;
+package com.storozhuk.lesson9.LinkedList.service.impl;
 
-import com.storozhuk.lesson9.dto.Node;
-import com.storozhuk.lesson9.service.Collection;
+import com.storozhuk.lesson9.LinkedList.dto.Node;
+import com.storozhuk.lesson9.LinkedList.service.Collection;
 
 /**
  * Class CustomCollection

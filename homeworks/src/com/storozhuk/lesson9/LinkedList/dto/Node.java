@@ -1,4 +1,4 @@
-package com.storozhuk.lesson9.dto;
+package com.storozhuk.lesson9.LinkedList.dto;
 
 /**
  * Class Node

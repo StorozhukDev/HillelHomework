@@ -1,9 +1,9 @@
-package com.storozhuk.lesson9;
+package com.storozhuk.lesson9.LinkedList;
 
-import com.storozhuk.lesson9.service.impl.CustomCollection;
+import com.storozhuk.lesson9.LinkedList.service.impl.CustomCollection;
 
-/*
- * Реализовать коллекцию на основе связного списка
+/**
+ * Implement linked list collection
  */
 public class Main {
     public static void main(String[] args) {
