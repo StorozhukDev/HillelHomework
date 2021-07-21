@@ -1,4 +1,4 @@
-package com.storozhuk.lesson10.service;
+package com.storozhuk.lesson10.CollectionService.service;
 
 import java.util.Collection;
 import java.util.HashSet;

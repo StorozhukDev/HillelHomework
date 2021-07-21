@@ -1,4 +1,4 @@
-package com.storozhuk.lesson10.service;
+package com.storozhuk.lesson10.QuadraticEquation.service;
 
 /**
  * Class QuadraticEquation

@@ -1,12 +1,12 @@
-package com.storozhuk.lesson10;
+package com.storozhuk.lesson10.QuadraticEquation;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-import static com.storozhuk.lesson10.service.QuadraticEquation.getRoots;
+import static com.storozhuk.lesson10.QuadraticEquation.service.QuadraticEquation.getRoots;
 
-/*
- * Написать программу для вычисления корней квадратного уравнения.
+/**
+ * Write a program to calculate quadratic equation roots.
  */
 public class Roots {
     public static void main(String[] args) {

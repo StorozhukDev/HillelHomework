@@ -1,6 +1,6 @@
-package com.storozhuk.lesson10.service.impl;
+package com.storozhuk.lesson10.CollectionService.service.impl;
 
-import com.storozhuk.lesson8.service.impl.StringCollection;
+import com.storozhuk.lesson8.StringCollection.service.impl.StringCollection;
 
 import java.util.Iterator;
 
@@ -10,7 +10,7 @@ import java.util.Iterator;
  * Implementation of Iterator for StringCollection.
  */
 public class StringCollectionIterator implements Iterator {
-    private StringCollection collection;
+    private final StringCollection collection;
     private int index = 0;
 
     public StringCollectionIterator(StringCollection collection) {
