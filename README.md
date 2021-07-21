@@ -7,3 +7,4 @@
 #### [Lesson 5: Students list with selection using arrays.](homeworks/src/com/storozhuk/lesson5)
 #### [Lesson 6: Phone base selector. Interfaces.](homeworks/src/com/storozhuk/lesson6)
 #### [Lesson 7: String collection implementation.](homeworks/src/com/storozhuk/lesson7)
+#### [Lesson 8: String collection implementation using interface.](homeworks/src/com/storozhuk/lesson8)
