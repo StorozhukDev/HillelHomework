@@ -8,3 +8,4 @@
 #### [Lesson 6: Phone base selector. Interfaces.](homeworks/src/com/storozhuk/lesson6)
 #### [Lesson 7: String collection implementation.](homeworks/src/com/storozhuk/lesson7)
 #### [Lesson 8: String collection implementation using interface.](homeworks/src/com/storozhuk/lesson8)
+#### [Lesson 9: Linked list implementation.](homeworks/src/com/storozhuk/lesson9)
