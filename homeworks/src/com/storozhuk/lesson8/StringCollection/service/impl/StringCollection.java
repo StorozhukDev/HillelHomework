@@ -1,6 +1,6 @@
-package com.storozhuk.lesson8.service.impl;
+package com.storozhuk.lesson8.StringCollection.service.impl;
 
-import com.storozhuk.lesson8.service.Collection;
+import com.storozhuk.lesson8.StringCollection.service.Collection;
 
 import java.util.Arrays;
 

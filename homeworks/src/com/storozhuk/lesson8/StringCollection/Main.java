@@ -1,9 +1,9 @@
-package com.storozhuk.lesson8;
+package com.storozhuk.lesson8.StringCollection;
 
-import com.storozhuk.lesson8.service.impl.StringCollection;
+import com.storozhuk.lesson8.StringCollection.service.impl.StringCollection;
 
-/*
- * Реализовать простую коллекцию для String на базе массива используя интерфейс
+/**
+ * Implement simple String collection based on arrays using interface
  */
 public class Main {
     public static void main(String[] args) {
