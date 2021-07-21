@@ -1,6 +1,4 @@
-package lesson13;
-
-import lesson13.service.dto.Pair;
+import service.dto.Pair;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -12,6 +10,9 @@ import java.util.stream.Collectors;
  * Class Streams
  *
  * Contains static methods which operates with data using streams.
+ * 1. Calculating average value of all elements in list.
+ * 2. Converting strings into Pairs which contains original strings and it's UPPERCASE form.
+ * 3. Filtering of list of strings which is in lowercase and it's length equals 4.
  */
 public class Streams {
     private static final Predicate<String> lenEqualsFour = (s) -> s.length() == 4;

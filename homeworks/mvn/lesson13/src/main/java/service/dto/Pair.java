@@ -1,4 +1,4 @@
-package lesson13.service.dto;
+package service.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.EqualsAndHashCode;

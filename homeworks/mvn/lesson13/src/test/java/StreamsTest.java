@@ -1,7 +1,5 @@
-package lesson13;
-
-import lesson13.service.dto.Pair;
 import org.junit.jupiter.api.Test;
+import service.dto.Pair;
 
 import java.util.ArrayList;
 import java.util.Arrays;

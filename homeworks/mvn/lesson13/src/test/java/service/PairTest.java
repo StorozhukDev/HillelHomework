@@ -1,7 +1,7 @@
-package lesson13.service;
+package service;
 
-import lesson13.service.dto.Pair;
 import org.junit.jupiter.api.Test;
+import service.dto.Pair;
 
 import static org.junit.jupiter.api.Assertions.*;
 
