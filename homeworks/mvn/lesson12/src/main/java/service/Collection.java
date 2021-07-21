@@ -1,4 +1,4 @@
-package lesson8.service;
+package service;
 
 public interface Collection {
     boolean add(Object o);

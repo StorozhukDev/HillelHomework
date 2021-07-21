@@ -1,4 +1,4 @@
-package lesson8.service.impl;
+package service.impl;
 
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;

@@ -1,6 +1,6 @@
-package lesson8.service.impl;
+package service.impl;
 
-import lesson8.service.Collection;
+import service.Collection;
 
 import java.util.Arrays;
 
