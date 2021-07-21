@@ -1,9 +1,9 @@
-package com.storozhuk.lesson11;
+package com.storozhuk.lesson11.Java14;
 
-import com.storozhuk.lesson11.records.User;
+import com.storozhuk.lesson11.Java14.records.User;
 
-/*
- * Java 14 Preview
+/**
+ * Java 14 Review
  */
 public class Java14 {
     public static void main(String[] args) {
