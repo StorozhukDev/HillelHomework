@@ -72,7 +72,7 @@
                             <manifest>
                                 <addClasspath>true</addClasspath>
                                 <classpathPrefix>lib/</classpathPrefix>
-                                <mainClass>lesson14.GraphicGenerator</mainClass>
+                                <mainClass>GraphicGenerator</mainClass>
                             </manifest>
                         </archive>
                     </configuration>

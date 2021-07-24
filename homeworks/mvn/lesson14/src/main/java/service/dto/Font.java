@@ -1,4 +1,4 @@
-package lesson14.service.dto;
+package service.dto;
 
 /**
  * Class Font

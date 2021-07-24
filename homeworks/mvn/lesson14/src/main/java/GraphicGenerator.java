@@ -1,6 +1,4 @@
-package lesson14;
-
-import lesson14.service.dto.Font;
+import service.dto.Font;
 
 import java.util.Arrays;
 import java.util.Scanner;
