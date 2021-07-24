@@ -1,4 +1,4 @@
-package lesson16.utils;
+package utils;
 
 import java.util.Scanner;
 
@@ -6,7 +6,7 @@ import java.util.Scanner;
  * Class ScannerController
  *
  * @author Oleksandr Storozhuk
- * @version 1.0.0
+ * @version 1.0.1
  * created on 21.05.2021
  *
  * Contains methods to check correct input from Scanner.
@@ -33,10 +33,6 @@ public class ScannerController {
 
     public static String scanLine(int maxLen, String preInputMsg) {
         String tmp;
-        // skip previous input if exists
-        if (sc.hasNextLine()) {
-            sc.nextLine();
-        }
         do {
             System.out.print(preInputMsg + "(maxLen=" + maxLen + "):");
             tmp = sc.nextLine();

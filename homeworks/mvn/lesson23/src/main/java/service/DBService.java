@@ -1,14 +1,14 @@
-package lesson23.service;
+package service;
 
-import lesson23.service.dto.Student;
-import lesson23.utils.DBUtils;
+import service.dto.Student;
+import utils.DBUtils;
 
 import java.sql.*;
 import java.util.List;
 import java.util.Optional;
 
-import static lesson16.utils.ScannerController.scanCorrectIntValue;
-import static lesson16.utils.ScannerController.scanLine;
+import static utils.ScannerController.scanCorrectIntValue;
+import static utils.ScannerController.scanLine;
 
 /**
  * Class DBService

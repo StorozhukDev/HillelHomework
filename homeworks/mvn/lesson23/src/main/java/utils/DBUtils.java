@@ -1,6 +1,6 @@
-package lesson23.utils;
+package utils;
 
-import lesson23.service.dto.Student;
+import service.dto.Student;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;

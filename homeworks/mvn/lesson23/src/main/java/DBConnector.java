@@ -1,6 +1,4 @@
-package lesson23;
-
-import lesson23.service.DBService;
+import service.DBService;
 
 import java.sql.*;
 

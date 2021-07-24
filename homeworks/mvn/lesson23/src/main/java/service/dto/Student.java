@@ -1,4 +1,4 @@
-package lesson23.service.dto;
+package service.dto;
 
 import lombok.*;
 import lombok.experimental.Accessors;
