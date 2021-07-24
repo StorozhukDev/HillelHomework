@@ -1,10 +1,10 @@
-package lesson18.service;
+package service;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.JsonSyntaxException;
 import com.google.gson.reflect.TypeToken;
-import lesson18.util.FileUtils;
+import util.FileUtils;
 import org.yaml.snakeyaml.Yaml;
 
 import java.io.File;

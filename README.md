@@ -1,5 +1,3 @@
 # HillelHomework
-
-Java Elementary Course (18-03-2021)
-
-To watch homework just select needed branch.
+## Java Elementary Course (18-03-2021)
+#### [Lesson 18: Json <-> yaml converter.](homeworks/mvn/lesson18)

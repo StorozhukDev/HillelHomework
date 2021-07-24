@@ -1,4 +1,4 @@
-package lesson18.util;
+package util;
 
 import java.io.File;
 import java.io.FileWriter;

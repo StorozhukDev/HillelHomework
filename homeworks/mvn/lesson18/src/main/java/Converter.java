@@ -1,6 +1,4 @@
-package lesson18;
-
-import lesson18.service.ConvertingService;
+import service.ConvertingService;
 
 /**
  * Class Converter
