@@ -38,7 +38,7 @@
                             <manifest>
                                 <addClasspath>true</addClasspath>
                                 <classpathPrefix>lib/</classpathPrefix>
-                                <mainClass>lesson16.Game</mainClass>
+                                <mainClass>Game</mainClass>
                             </manifest>
                         </archive>
                     </configuration>
