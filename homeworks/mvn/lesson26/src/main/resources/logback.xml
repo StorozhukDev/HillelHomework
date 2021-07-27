@@ -1,0 +1,53 @@
+<configuration debug="false">
+
+    <timestamp key="bySecond" datePattern="yyyyMMddHHmmss"/>
+
+    <property name="GAMES_LOG_DIR" value="./log/GamesLog/" />
+    <property name="RES_LOG_DIR" value="./log/Results/" />
+
+    <appender name="games_log" class="ch.qos.logback.classic.sift.SiftingAppender">
+    <discriminator>
+        <key>player.name</key>
+        <defaultValue>unknown</defaultValue>
+    </discriminator>
+    <sift>
+        <appender name="${player.name}_${bySecond}" class="ch.qos.logback.core.FileAppender">
+            <file>${GAMES_LOG_DIR}/log_${player.name}_${bySecond}.log</file>
+            <append>true</append>
+            <encoder>
+                <pattern>%d{HH:mm:ss.SSS} [%-5level] %msg%n</pattern>
+            </encoder>
+        </appender>
+    </sift>
+    </appender>
+
+    <appender name="res_log" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <file>${RES_LOG_DIR}/results.log</file>
+        <append>true</append>
+        <encoder>
+            <pattern>%d{HH:mm:ss.SSS} [%-5level] %msg%n</pattern>
+        </encoder>
+        <rollingPolicy
+                class="ch.qos.logback.core.rolling.FixedWindowRollingPolicy">
+            <FileNamePattern>${RES_LOG_DIR}/results.%i.log.zip</FileNamePattern>
+            <MinIndex>1</MinIndex>
+            <MaxIndex>10</MaxIndex>
+        </rollingPolicy>
+
+        <triggeringPolicy class="ch.qos.logback.core.rolling.SizeBasedTriggeringPolicy">
+            <maxFileSize>1MB</maxFileSize>
+        </triggeringPolicy>
+    </appender>
+
+    <logger name="logger.results" level="info" additivity="true">
+        <appender-ref ref="res_log" />
+    </logger>
+
+    <logger name="logger.games" level="info" additivity="true">
+        <appender-ref ref="games_log" />
+    </logger>
+
+    <root level="debug">
+    </root>
+
+</configuration>

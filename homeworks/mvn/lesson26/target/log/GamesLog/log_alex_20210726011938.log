@@ -1,0 +1,5 @@
+01:19:38.340 [INFO ] Player alex joined the game.
+01:19:40.601 [INFO ] Round 1/25 : alex picks PAPER, ой picks SCISSORS -> LOSE
+01:19:43.940 [INFO ] Round 2/25 : alex picks SCISSORS, ой picks PAPER -> WIN
+01:19:47.494 [INFO ] Player alex left the game.
+01:19:47.494 [WARN ] Player selected 25 games, 2 games played, 23 games left.
