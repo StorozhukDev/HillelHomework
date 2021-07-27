@@ -1,3 +1,3 @@
 # HillelHomework
 ## Java Elementary Course (18-03-2021)
-#### [Lesson 30: Cache implementation.](homeworks/lesson30)
+#### [Lesson 30: Cache implementation (JavaDoc + Unit tests).](homeworks/mvn/lesson30)
