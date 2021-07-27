@@ -1,9 +1,8 @@
-package lesson24.service;
+package service;
 
-import lesson16.service.GameService;
-import lesson16.service.dto.types.Items;
-import lesson16.service.dto.types.RoundStatus;
-import lesson16.utils.ScannerController;
+import service.dto.types.Items;
+import service.dto.types.RoundStatus;
+import utils.ScannerController;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

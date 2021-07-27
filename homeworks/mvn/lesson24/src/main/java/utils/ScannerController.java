@@ -1,4 +1,4 @@
-package lesson16.utils;
+package utils;
 
 import org.slf4j.Logger;
 

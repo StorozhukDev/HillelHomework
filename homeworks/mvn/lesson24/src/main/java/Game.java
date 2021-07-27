@@ -1,6 +1,4 @@
-package lesson24;
-
-import lesson24.service.ExtLoggedGameService;
+import service.ExtLoggedGameService;
 /**
  * Class Game
  *

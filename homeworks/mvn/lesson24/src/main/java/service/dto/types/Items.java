@@ -1,4 +1,4 @@
-package lesson16.service.dto.types;
+package service.dto.types;
 
 /**
  * Enumeration Items
