@@ -13,3 +13,4 @@
 #### [Lesson 11: Java14. Maven.](homeworks/src/com/storozhuk/lesson11)
 #### [Lesson 12: Unit testing.](homeworks/mvn/lesson12)
 #### [Lesson 13: Stream API. Optional.](homeworks/mvn/lesson13)
+#### [Lesson 14: Stream API. ASCII-art generator.](homeworks/mvn/lesson14)
