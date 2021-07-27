@@ -1,0 +1,7 @@
+00:35:43.277 [main] INFO Player player joined the game.
+00:35:44.542 [main] DEBUG player selected PAPER, PC selected PAPER
+00:35:44.542 [main] INFO Round 1/10 : DRAW
+00:35:45.508 [main] DEBUG player selected ROCK, PC selected SCISSORS
+00:35:45.508 [main] INFO Round 2/10 : WIN
+00:35:48.056 [main] WARN Player selected 10 games, 2 games played, 8 games left.
+00:35:48.057 [main] INFO Player player left the game.

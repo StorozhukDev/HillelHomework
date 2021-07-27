@@ -20,3 +20,4 @@
 #### [Lesson 20: Threads. "ATM service".](homeworks/mvn/lesson20)
 #### [Lesson 22: MySQL.](homeworks/src/com/storozhuk/lesson22)
 #### [Lesson 23: JDBC connection to database.](homeworks/mvn/lesson23)
+#### [Lesson 24: "Rock Scissors Paper" game.](homeworks/mvn/lesson24)
