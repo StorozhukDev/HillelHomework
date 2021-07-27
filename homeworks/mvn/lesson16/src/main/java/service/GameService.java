@@ -1,14 +1,14 @@
-package lesson16.service;
+package service;
 
-import lesson16.service.dto.Player;
-import lesson16.service.dto.types.Items;
-import lesson16.service.dto.types.RoundStatus;
+import service.dto.Player;
+import service.dto.types.Items;
+import service.dto.types.RoundStatus;
 
 import java.util.Scanner;
 
-import static lesson16.service.dto.types.RoundStatus.*;
-import static lesson16.utils.RandomGenerator.getRandomInt;
-import static lesson16.utils.ScannerController.scanCorrectIntValue;
+import static service.dto.types.RoundStatus.*;
+import static utils.RandomGenerator.getRandomInt;
+import static utils.ScannerController.scanCorrectIntValue;
 
 /**
  * Class GameService

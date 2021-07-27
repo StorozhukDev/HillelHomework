@@ -1,6 +1,4 @@
-package lesson16;
-
-import lesson16.service.GameService;
+import service.GameService;
 
 /**
  * Class Game
