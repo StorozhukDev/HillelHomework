@@ -15,3 +15,4 @@
 #### [Lesson 13: Stream API. Optional.](homeworks/mvn/lesson13)
 #### [Lesson 14: Stream API. ASCII-art generator.](homeworks/mvn/lesson14)
 #### [Lesson 16: "Rock Scissors Paper" game.](homeworks/mvn/lesson16)
+#### [Lesson 17: "Rock Scissors Paper" game.](homeworks/mvn/lesson17)
