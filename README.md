@@ -23,3 +23,4 @@
 #### [Lesson 24: "Rock Scissors Paper" game.](homeworks/mvn/lesson24)
 #### [Lesson 25: Hibernate.](homeworks/mvn/lesson25)
 #### [Lesson 26: "Rock Scissors Paper" game. Logback+L10n.](homeworks/mvn/lesson26)
+#### [Lesson 30: Cache implementation. JavaDoc + Unit testing.](homeworks/mvn/lesson30)
