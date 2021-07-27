@@ -1,4 +1,4 @@
-package lesson20.service.dto.types;
+package service.dto.types;
 
 /**
  * Enumeration  AtmTrType

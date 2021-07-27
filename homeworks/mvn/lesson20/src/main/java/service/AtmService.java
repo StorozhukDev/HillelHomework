@@ -1,7 +1,7 @@
-package lesson20.service;
+package service;
 
-import lesson20.service.dto.Client;
-import lesson20.service.dto.Atm;
+import service.dto.Client;
+import service.dto.Atm;
 
 /**
  * Class AtmService

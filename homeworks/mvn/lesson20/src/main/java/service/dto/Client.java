@@ -1,6 +1,6 @@
-package lesson20.service.dto;
+package service.dto;
 
-import lesson20.service.dto.types.AtmTrType;
+import service.dto.types.AtmTrType;
 
 /**
  * Class Client
