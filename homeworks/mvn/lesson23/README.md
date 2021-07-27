@@ -1,6 +1,6 @@
 # HillelHomework
 ## [Java Elementary Course (18-03-2021)](/../..)
-### Lesson 12
+### Lesson 23
 
 1. [JDBC connection to database (lesson22).](./src/main/java)
 2. [Database modification.](./../../src/com/storozhuk/lesson23/sql)
